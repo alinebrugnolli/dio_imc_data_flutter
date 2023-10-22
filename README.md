@@ -29,4 +29,4 @@
 
 
 
-![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=em%20desenvolvimento.&color=EEAD2D&style=for-the-badge)
+
